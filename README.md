@@ -11,7 +11,7 @@ Utilizando palavras chaves, data ou qualquer método fornecido pela API ele filt
  - fast-csv
  - googleapis
 
-# Instalação
+# INSTALAÇÃO
 
 ```bash
 npm install
@@ -19,7 +19,7 @@ npm install
 yarn install
 ```
 
-# configuração
+# CONFIGURAÇÃO
 
 1 - O primeiro passo é criar as credenciais no Google Cloud como está descrito na documentação da API no link abaixo. 
 [link para configuração das crendenciais](https://developers.google.com/gmail/api/quickstart/nodejs?hl=pt-br)
